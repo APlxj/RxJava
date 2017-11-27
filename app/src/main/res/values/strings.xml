@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxJava</string>
+    <string-array name="tv">
+        <item>base</item>
+        <item>deep</item>
+    </string-array>
+</resources>
